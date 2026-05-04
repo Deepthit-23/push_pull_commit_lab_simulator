@@ -3,7 +3,17 @@ guid: 33234187c4d1d7047a1182d092bd2fdc
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - buttonClick: {fileID: 8300000, guid: 49abc992101d97f4792ce56b2c71fedf, type: 3}
+  - buttonHover: {instanceID: 0}
+  - grab: {fileID: 8300000, guid: 16fba6d30ed741d4a9fdd6e79ee2f3ac, type: 3}
+  - release: {instanceID: 0}
+  - attach: {instanceID: 0}
+  - success: {fileID: 8300000, guid: 0ef540f2aefc32847ba42d4098d06589, type: 3}
+  - error: {fileID: 8300000, guid: 2503d9186a5244643b618ebc7b845b24, type: 3}
+  - complete: {fileID: 8300000, guid: a5708337a9882674c8b380e080697b71, type: 3}
+  - fireLoop: {fileID: 8300000, guid: dc0421ac0bb882946ad10f3d5e43415d, type: 3}
+  - sprayLoop: {fileID: 8300000, guid: 27de12f4519939241bf1a0bcdf0109bf, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
