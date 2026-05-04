@@ -35,6 +35,12 @@ Players sort chemical bottles into the correct storage cabinets based on their h
 ### Scenario 4 — Chemical Mixing Experiment
 Players pick up labeled reagent bottles and pour them into a mixing beaker. The system shows whether the combination is safe or dangerous — with a real scientific explanation of why.
 
+### Scenario 5 — pH Testing
+Players test the acidity or alkalinity of unknown liquid samples using pH indicator strips or a pH meter. Based on the reading, players must correctly classify the substance and dispose of it in the appropriate waste container.
+
+### Scenario 6 — Flame Test
+Players perform a classic flame test experiment — dipping metal salt samples into a flame using a wire loop and identifying the unknown metal based on the color of the flame produced. Each metal produces a unique characteristic color, teaching players to identify substances through observation.
+
 ---
 
 ## 🛠️ Tech Stack
